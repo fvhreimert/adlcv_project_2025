@@ -3,7 +3,7 @@ import os
 from invoke import Context, task
 
 WINDOWS = os.name == "nt"
-PROJECT_NAME = "diffsam"
+PROJECT_NAME = "adlcv_project_2025"
 PYTHON_VERSION = "3.11"
 
 # Setup commands

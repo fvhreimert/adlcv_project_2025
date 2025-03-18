@@ -1,6 +1,6 @@
 from torch.utils.data import Dataset
 
-from diffsam.data import MyDataset
+from adlcv_project_2025.data import MyDataset
 
 
 def test_my_dataset():

@@ -1,6 +1,6 @@
-# diffsam
+# adlcv_project_2025
 
-diffsam final project
+diffsam
 
 ## Project structure
 

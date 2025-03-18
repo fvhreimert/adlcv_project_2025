@@ -1,5 +1,5 @@
-from diffsam.model import Model
-from diffsam.data import MyDataset
+from adlcv_project_2025.model import Model
+from adlcv_project_2025.data import MyDataset
 
 def train():
     dataset = MyDataset("data/raw")

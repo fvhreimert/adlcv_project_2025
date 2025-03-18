@@ -3,11 +3,11 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "diffsam"
+name = "adlcv_project_2025"
 version = "0.0.1"
-description = "diffsam final project"
+description = "diffsam"
 authors = [
-  { name = "group_37", email = "your@email.com" },
+  { name = "dtu", email = "your@email.com" },
 ]
 
 keywords = ["machine learning", "MLOps"]
