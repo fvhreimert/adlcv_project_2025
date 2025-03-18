@@ -19,7 +19,7 @@ manual_test/
 __pycache__/
 *.py[cod]
 *$py.class
-
+/checkpoints
 # C extensions
 *.so
 
